@@ -7,13 +7,13 @@ I have worked on several python and laravel projects some of which have repos po
 
 Skills:
 
-programming languages: python, php, dart, javascript, go
-databases: SQL (mysql, sqlite, posgres), NoSQL (mongoDb)
-frontend stack and: html, css (bootstrap), javascript
-design tools: adobe xd, DbSchema (for databases)
-backend stack: python (django, fastAPI)
-fullstack: laravel, django, fastAPI
-mobile development: dart, flutter
+1. programming languages: python, php, dart, javascript, go
+2. databases: SQL (mysql, sqlite, posgres), NoSQL (mongoDb)
+3. frontend stack and: html, css (bootstrap), javascript
+4. design tools: adobe xd, DbSchema (for databases)
+5. backend stack: python (django, fastAPI)
+6. fullstack: laravel, django, fastAPI
+7. mobile development: dart, flutter
 
 Projects:
 
