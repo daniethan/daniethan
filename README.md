@@ -1,19 +1,20 @@
 MY PROFILE
 
 My name is NSOZI DANIEL, alias daniethan.
-Am a computer engineering student at Makerere University as of now (December, 2022) since August, 2019.
-Am pursuing a dream career in programing and software development in general
-I have worked on several python and laravel projects some of which have repos posted on github
+Am a computer engineering student at Makerere University as of now (April, 2023) since August, 2019.
+Am pursuing a dream career in programing, and software development in general.
+I have worked on several python and laravel projects some of which have repos here on github.
 
 Skills:
 
-1. programming languages: python, php, dart, javascript, go
-2. databases: SQL (mysql, sqlite, posgres), NoSQL (mongoDb)
-3. frontend stack and: html, css (bootstrap), javascript
-4. design tools: adobe xd, DbSchema (for databases)
-5. backend stack: python (django, fastAPI)
-6. fullstack: laravel, django, fastAPI
-7. mobile development: dart, flutter
+1. Programming languages: python/pyscript, php, dart, javascript/typescript, go-lang
+2. Databases: SQL (mysql, sqlite, posgres), NoSQL (mongoDb)
+3. Frontend stack and: html, css (bootstrap/tailwind-css), javascript, <learning react>
+4. Design tools: Adobe XD, Pixso, DbSchema (for relational databases)
+5. Backend stack: Python (django, fastAPI)
+6. RESTful API development and maintenance: (DRF, FastAPI)
+6. Fullstack frameworks: Laravel, Django, FastAPI
+7. Mobile development: Kotlin, <learning ReactNative>
 
 Projects:
 
