@@ -1,7 +1,7 @@
 MY PROFILE
 
 My name is NSOZI DANIEL, alias daniethan.
-Am a computer engineering student at Makerere University as of now (April, 2023) since August, 2019.
+Am a computer engineering graduate at Makerere University Kampala, class of 2019.
 Am pursuing a dream career in programing, and software development in general.
 I have worked on several python and laravel projects some of which have repos here on github.
 
